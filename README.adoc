@@ -1,0 +1,7 @@
+= Duke Says Hello to Jakarta MVC
+
+This simple application explores most of the features in Jakarta MVC.
+Used as demo for my MVC Talks.
+
+Check out the link:https://speakerdeck.com/ivargrimstad/jakarta-mvc[slides].
+

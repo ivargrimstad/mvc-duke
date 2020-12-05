@@ -1,9 +1,10 @@
 package dukes;
 
-import javax.mvc.binding.MvcBinding;
-import javax.validation.constraints.NotNull;
-import javax.validation.constraints.Pattern;
-import javax.ws.rs.FormParam;
+
+import jakarta.mvc.binding.MvcBinding;
+import jakarta.validation.constraints.NotNull;
+import jakarta.validation.constraints.Pattern;
+import jakarta.ws.rs.FormParam;
 
 public class HelloForm {
 

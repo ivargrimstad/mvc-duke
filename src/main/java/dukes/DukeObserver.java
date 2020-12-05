@@ -1,9 +1,10 @@
 package dukes;
 
-import javax.enterprise.context.ApplicationScoped;
-import javax.enterprise.event.Observes;
-import javax.mvc.event.BeforeControllerEvent;
-import javax.mvc.event.ControllerRedirectEvent;
+import jakarta.enterprise.context.ApplicationScoped;
+import jakarta.enterprise.event.Observes;
+import jakarta.mvc.event.BeforeControllerEvent;
+import jakarta.mvc.event.ControllerRedirectEvent;
+
 import java.util.logging.Logger;
 
 @ApplicationScoped

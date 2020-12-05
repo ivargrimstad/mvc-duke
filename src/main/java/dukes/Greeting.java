@@ -1,7 +1,8 @@
 package dukes;
 
-import javax.inject.Named;
-import javax.mvc.RedirectScoped;
+import jakarta.inject.Named;
+import jakarta.mvc.RedirectScoped;
+
 import java.io.Serializable;
 
 @Named("greeting")
